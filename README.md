@@ -235,8 +235,8 @@
     </div>
 </div>
 <div class="meta">
-<strong>Prepared for:</strong> Matthew<br/>
-<strong>Prepared by:</strong> ChatGPT<br/>
+<strong>Prepared for:</strong> Matthew Romig and Brody Pitre<br/>
+<strong>Prepared by:</strong> MaxGPT<br/>
 <strong>Date:</strong> April 22, 2026<br/>
 <strong>Base case:</strong> 2,000 ft² single-family residence, 4 occupants, Lafayette, Louisiana<br/>
 <strong>Document purpose:</strong> concept-level design basis and preliminary system sizing
