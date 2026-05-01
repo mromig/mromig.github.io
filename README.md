@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -48,7 +49,7 @@ ul{padding-left:22px}li{margin:.25rem 0}table{width:100%;border-collapse:collaps
 <h2>1. Project overview</h2>
 <p class="lead">The project designs an off-grid renewable energy and water system for a 2,000 ft² single-family residence in Lafayette, Louisiana. The home is intended to be independent of utility power and water service, powered primarily by rooftop PV with battery storage, with a generator and backup well reserved for emergency or deficit conditions.</p>
 <div class="grid four">
-  <div class="card"><div class="big-number">14</div><span class="unit">kW DC PV array</span><p>35 × 400 W modules, sized for December worst-week solar availability plus margin.</p></div>
+  <div class="card"><div class="big-number">10</div><span class="unit">kW DC PV array</span><p>35 × 400 W modules, sized for December worst-week solar availability plus margin.</p></div>
   <div class="card"><div class="big-number">210</div><span class="unit">kWh LFP battery bank</span><p>Designed for about 3 days of autonomy using conservative round-trip, DoD, and end-of-life factors.</p></div>
   <div class="card"><div class="big-number">40.6</div><span class="unit">kWh/day peak design load</span><p>Includes HVAC, dehumidifier, water heater, pumps, lighting, plug loads, ERV fan, and standby loads.</p></div>
   <div class="card"><div class="big-number">91%</div><span class="unit">rainwater demand coverage</span><p>Rainwater supplies most annual demand, with a backup well covering dry-season and deficit margin.</p></div>
